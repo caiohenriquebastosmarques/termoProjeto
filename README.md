@@ -1,5 +1,4 @@
-termoProjeto
-Integrantes:
+termoProjeto, Integrantes:
 - Caio Henrique Bastos Marques
 - Murilo Ferraz Barbosa
 - Paulo Daniel Neto
